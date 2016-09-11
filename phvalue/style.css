@@ -1,0 +1,120 @@
+* {
+    padding: 0px;
+    margin: 0px;
+}
+
+body {
+    background-color: rgba(238, 238, 238, 0.5);
+    color: white;
+    font-family: Helvetica sans-serif Arial;
+    font-size: 1.3em;
+    margin: 0 auto;
+    text-align: center;
+    min-width: 400px;
+}
+
+h1 {
+    margin-top: 1.0em;
+    margin-bottom: 1.0em;
+    color: #333;
+}
+
+a {
+    text-decoration: none;
+    color: #F66;
+}
+
+a:hover {
+    color: #25BC76;
+}
+
+a:visited {
+    color: #50328E;
+}
+
+li {
+    margin: 0 auto;
+    list-style: none;
+    height: 50px;
+    line-height: 50px;
+    width: 90%;
+    text-align: center;
+    font-weight: bold;
+}
+
+.phitem:hover {
+    height: 80px;
+    line-height: 80px;
+    width: 92%;
+    transition-duration: 0.25s;
+}
+
+.ph14 {
+    background-color: #50328E;
+}
+
+.ph13 {
+    background-color: #6E4EA7;
+}
+
+.ph12 {
+    background-color: #655BAC;
+}
+
+.ph11 {
+    background-color: #405DAE;
+}
+
+.ph10 {
+    background-color: #509AD3;
+}
+
+.ph9 {
+    background-color: #09C0BE;
+}
+
+.ph8 {
+    background-color: #25BC76;
+}
+
+.ph7 {
+    background-color: #3AB255;
+}
+
+.ph6 {
+    background-color: #57BF53;
+}
+
+.ph5 {
+    background-color: #8FCA4A;
+}
+
+.ph4 {
+    background-color: #BDD93A;
+}
+
+.ph3 {
+    background-color: #F6F01D;
+}
+
+.ph2 {
+    background-color: #F9CD0E;
+}
+
+.ph1 {
+    background-color: #F47328;
+}
+
+.ph0 {
+    background-color: #F02029;
+}
+
+footer {
+    margin-top: 30px;
+    margin-bottom: 50px;
+}
+
+footer p {
+    color: #666;
+    font-size: 0.8em;
+}
